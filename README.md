@@ -1,6 +1,6 @@
 # James Dominic Ortega
 
-##About Me!
+##About Me
 I'm 19 years old.
 
 Currently a 2nd year Comp Sci student.
